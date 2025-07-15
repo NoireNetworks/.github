@@ -12,5 +12,5 @@ We create and support projects that:
 
 Noire Networks is currently maintained by:
 
-- _[Phoul](https://github.com.com/phoul)_
+- _[Phoul](https://github.com/phoul)_
 - _[LuckyKerplucky](https://github.com/luckykerplucky)_
