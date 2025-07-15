@@ -1,5 +1,3 @@
-# Noire Networks
-
 Noire Networks is a collective dedicated to building accessible, open-source software that empowers individuals and communities. 
 
 ---
