@@ -18,5 +18,5 @@ We create and support projects that:
 
 Noir Networks is currently maintained by:
 
-- **Maintainer 1** – _[Phoul](https://github.com.com/phoul)_
-- **Maintainer 2** – _[LuckyKerplucky](https://github.com.com/luckykerplucky)_
+- _[Phoul](https://github.com.com/phoul)_
+- _[LuckyKerplucky](https://github.com.com/luckykerplucky)_
