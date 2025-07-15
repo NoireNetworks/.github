@@ -14,18 +14,6 @@ We create and support projects that:
 
 ---
 
-## 🛠️ What We Build
-
-Our work spans multiple areas:
-
-- **Data visualization tools**
-- **Tools for systems and network administration**
-- **Tools and infrastructure for charity events**
-- **Tools and infrastructure for Bluesky**
-- **Tools for streamers**
-
----
-
 ## 👥 Maintainers
 
 Noir Networks is currently maintained by:
