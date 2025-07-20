@@ -6,7 +6,7 @@ We create and support projects that:
 
 - Lower the barrier to entry for using and understanding various technologies
 - Encourage **privacy-respecting** and **community-led** alternatives to proprietary systems
-- Provide tools that are useful to individuals, organizers, educatators and small communities
+- Provide tools that are useful to individuals, organizers, educatators and communities
 
 ## 👥 Maintainers
 
